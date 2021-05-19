@@ -11,7 +11,7 @@ The App was also hosted in AWS Lambda serverless service which hence made it eas
 
 Technologies Used:- 
 
-Node JS (Backend)
+Django (a python based framework for managing database and other operations in Backend)
 
 HTML, CSS , JS (Front end)
 
