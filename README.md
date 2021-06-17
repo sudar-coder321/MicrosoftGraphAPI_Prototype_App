@@ -3,15 +3,11 @@
 
 This Web app built for TVS Supply Chain Solutions Ltd , fetches data from microsoft graph endpoint and displays it in a tabular format
 
-It is also used to Help Employees at TVS Logistics Software company have a portal to integrate their Azure data wuth the TVS domain.
+Disclaimer :diamonds: :- There is a significant part of this project which has not been uploaded due to company confidentiality guidelines
 
-The workers at automobile manufacturing were also benefitted with a sign in portal for connecting online with the TVS domain to track their meeting statuses.
+## Technologies Used:- 
 
-The App was also hosted in AWS Lambda serverless service which hence made it easier to manage the data without having to configure servers manually.
+- Django (a python based framework for managing database and other operations in Backend)
 
-Technologies Used:- 
-
-Django (a python based framework for managing database and other operations in Backend)
-
-HTML, CSS , JS (Front end)
+- HTML, CSS , JS (Front end)
 
