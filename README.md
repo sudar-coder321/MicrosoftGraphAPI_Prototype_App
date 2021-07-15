@@ -19,10 +19,16 @@ There is a significant part of this project which has not been uploaded due to c
 - AWS 
 
 - Microsoft Graph
+
+- Babel (trying out designs)
  
  ## References Used
  
  #### https://docs.microsoft.com/en-us/graph/
  
  #### https://docs.microsoft.com/en-us/graph/overview-major-services
+ 
+ #### https://docs.djangoproject.com/en/3.2/
+ 
+ #### https://babeljs.io/
 
