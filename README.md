@@ -18,5 +18,9 @@ Disclaimer :diamonds: :- There is a significant part of this project which has n
 
 - Microsoft Graph
  
+ ## References Used
  
+ ### https://docs.microsoft.com/en-us/graph/
+ 
+ ### https://docs.microsoft.com/en-us/graph/overview-major-services
 
