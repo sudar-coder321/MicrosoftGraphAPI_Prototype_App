@@ -4,11 +4,11 @@
 
 This Web app built for TVS Supply Chain Solutions Ltd , fetches data from Microsoft Graph service endpoint and displays it in a tabular format
 
-### Important Note :diamonds:  
+## Important Note :diamonds:  
 
 There is a part of this project which has not been uploaded to respect company confidentiality guidelines
 
-## Technologies Used:- 
+## Technologies Used -  
 
 - Django (a python based framework for managing database and other operations in Backend)
 
@@ -22,7 +22,7 @@ There is a part of this project which has not been uploaded to respect company c
 
 - Babel (trying out designs)
  
- ## References Used
+ ## References Used - 
  
  #### https://docs.microsoft.com/en-us/graph/
  
