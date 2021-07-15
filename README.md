@@ -12,3 +12,11 @@ Disclaimer :diamonds: :- There is a significant part of this project which has n
 
 - HTML, CSS , JS (Front end)
 
+- Azure
+
+- AWS 
+
+- Microsoft Graph
+ 
+ 
+
