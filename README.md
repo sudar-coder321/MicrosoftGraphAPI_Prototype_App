@@ -1,4 +1,5 @@
-# AzuregraphAPI
+# Microsoft Azure Graph API
+![image](https://user-images.githubusercontent.com/60535124/125837303-d3ba6419-437a-4c37-a83c-da6ec2181e3f.png)
 
 
 This Web app built for TVS Supply Chain Solutions Ltd , fetches data from Microsoft Graph service endpoint and displays it in a tabular format
