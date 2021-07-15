@@ -1,7 +1,7 @@
 # AzuregraphAPI
 
 
-This Web app built for TVS Supply Chain Solutions Ltd , fetches data from microsoft graph endpoint and displays it in a tabular format
+This Web app built for TVS Supply Chain Solutions Ltd , fetches data from Microsoft Graph service endpoint and displays it in a tabular format
 
 Disclaimer :diamonds: :- There is a significant part of this project which has not been uploaded due to company confidentiality guidelines
 
