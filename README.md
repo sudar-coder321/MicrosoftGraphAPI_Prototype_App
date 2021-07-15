@@ -6,7 +6,7 @@
 
 ### Disclaimer :diamonds:  
 
-There is a significant part of this project which has not been uploaded due to company confidentiality guidelines
+There is a part of this project which has not been uploaded to respect company confidentiality guidelines
 
 ## Technologies Used:- 
 
