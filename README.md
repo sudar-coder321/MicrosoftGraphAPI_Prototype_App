@@ -4,7 +4,7 @@
 
 ##### This Web app built for TVS Supply Chain Solutions Ltd , fetches data from Microsoft Graph service endpoint and displays it in a tabular format
 
-### Disclaimer :diamonds:  
+### Important Note :diamonds:  
 
 There is a part of this project which has not been uploaded to respect company confidentiality guidelines
 
