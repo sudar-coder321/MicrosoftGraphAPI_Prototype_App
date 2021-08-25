@@ -1,0 +1,19 @@
+{% extends "py_graph_app/layout.html" %}
+{% block content %}
+<br>
+<br>
+<h3>This is the all new Graph API Integration Service Brought to you by TVSSCS ltd</h3>
+<br>
+<br>
+<div class="jumbotron">
+  <p class="lead">This Web Application uses the Microsoft Graph API to access Outlook Calendar and User Info through python</p>
+  <br>
+  <br>
+  {% if user.is_authenticated %}
+    <h4>Welcome {{ user.name }}!</h4>
+    <p>Use the navigation bar at the top of the page to get started.</p>
+  {% else %}
+    <a href="{% url 'signin' %}" class="btn btn-primary btn-large">Click here to sign in</a>
+  {% endif %}
+</div>
+{% endblock %}

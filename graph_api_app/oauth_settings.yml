@@ -1,0 +1,7 @@
+app_id: "02395e24-c726-4563-a149-9b800a23a31b"
+app_secret: "TOxY7r2c-M9H[jDol3QT/aDyHW@kCcvS"
+redirect: "http://localhost:8000/py_graph_app/callback"
+scopes: "openid profile offline_access user.read calendars.read"
+authority: "https://login.microsoftonline.com/199cd65c-6cfa-4af3-8e5f-f279abc07ce8"
+authorize_endpoint: "/oauth2/v2.0/authorize"
+token_endpoint: "/oauth2/v2.0/token"  

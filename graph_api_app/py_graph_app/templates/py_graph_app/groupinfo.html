@@ -1,0 +1,39 @@
+{% extends "py_graph_app/layout.html" %}
+{% block groupcontent %}
+<h1>Group Users Information</h1>
+<table class="table">
+  <thead>
+    {% if users %}
+    <tr>
+      <th scope="col">Name</th>
+      <th scope="col">ID</th>
+      <th scope="col">Email ID</th>
+      <th scope="col">Business Contact No</th>
+      <th scope="col">Job Title</th>
+      <th scope="col">Mail</th>
+      <th scope="col">Mobile Phone no</th>
+      <th scope="col">Office Location</th>
+      <th scope="col">Preferred Language</th>
+    </tr>
+    {% endif %}
+  </thead>
+  <tbody>
+    {% if users %}
+        {% for user in users %}
+        <tr>
+          <td>{{ user.displayName }}</td>
+          <td>{{ user.id }}</td>
+          <td>{{ user.userPrincipalName }}</td>
+          <td>{{ user.businessPhones }}</td>
+          <td>{{ user.jobtitle }}</td>
+          <td>{{ user.mail }}</td>
+          <td>{{ user.contacts }}</td>
+          <td>{{ user.officeLocation }}</td>
+          <td>{{ user.preferredLanguage }}</td>
+        </tr>
+        {% endfor %}
+    {% endif %}
+  </tbody>
+</table>
+
+{% endblock %}

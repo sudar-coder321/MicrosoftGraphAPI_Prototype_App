@@ -1,0 +1,35 @@
+{% extends "py_graph_app/layout.html" %}
+{% block usercontent %}
+<h1>User Information</h1>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Name</th>
+      <th scope="col">ID</th>
+      <th scope="col">Email ID</th>
+      <th scope="col">Business Contact No</th>
+      <th scope="col">Job Title</th>
+      <th scope="col">Mail</th>
+      <th scope="col">Mobile Phone no</th>
+      <th scope="col">Office Location</th>
+      <th scope="col">Preferred Language</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% if user %}
+        <tr>
+          <td>{{ user.displayName }}</td>
+          <td>{{ user.id }}</td>
+          <td>{{ user.userPrincipalName }}</td>
+          <td>{{ user.businessPhones }}</td>
+          <td>{{ user.jobTitle }}</td>
+          <td>{{ user.mail }}</td>
+          <td>{{ user.contacts }}</td>
+          <td>{{ user.officeLocation }}</td>
+          <td>{{ user.preferredLanguage }}</td>
+        </tr>
+      {% endif %}
+  </tbody>
+</table>
+
+{% endblock %}
