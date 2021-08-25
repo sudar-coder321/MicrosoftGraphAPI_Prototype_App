@@ -1,4 +1,4 @@
-# Microsoft Azure Graph API Prototype App
+# Microsoft Azure Graph API **Prototype** App
 ![image](https://user-images.githubusercontent.com/60535124/125837303-d3ba6419-437a-4c37-a83c-da6ec2181e3f.png)
 
 
