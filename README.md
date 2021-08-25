@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/60535124/125837303-d3ba6419-437a-4c37-a83c-da6ec2181e3f.png)
 
 
-### This Web app which was proposed as a *Protoype* TVS Supply Chain Solutions Ltd , fetches data from Microsoft Graph service endpoint and displays it in a tabular format
+### This Web app which was proposed as a *Protoype* for TVS SCS , fetches data from Microsoft Graph service endpoint and displays it in a tabular format
 
 ## Important Note :diamonds:  
 
